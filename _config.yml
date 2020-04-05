@@ -1,4 +1,4 @@
-title: Thang Luu # your name (or website title) here
-logo: "/images/logo.png"
+title: Thang Luu
+logo: "/images/logo.png?raw=true"
 description: enough love create awesome things  
 theme: jekyll-theme-minimal
